@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/debarun_real_estate_project/static/css/main.94234738.css",
+    "main.js": "/debarun_real_estate_project/static/js/main.bec4e8bb.js",
+    "static/js/787.1cd43ffb.chunk.js": "/debarun_real_estate_project/static/js/787.1cd43ffb.chunk.js",
+    "index.html": "/debarun_real_estate_project/index.html",
+    "main.94234738.css.map": "/debarun_real_estate_project/static/css/main.94234738.css.map",
+    "main.bec4e8bb.js.map": "/debarun_real_estate_project/static/js/main.bec4e8bb.js.map",
+    "787.1cd43ffb.chunk.js.map": "/debarun_real_estate_project/static/js/787.1cd43ffb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94234738.css",
+    "static/js/main.bec4e8bb.js"
+  ]
+}
